@@ -1,1 +1,1 @@
-:sparkles: CREATE BEAUTIFUL CHARTS https://github.com/lucabubi/star-history :sparkles:
+:sparkles: PROMOTING -> https://github.com/lucabubi/star-history :sparkles:
