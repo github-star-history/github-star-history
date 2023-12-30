@@ -1,1 +1,1 @@
-:sparkles: PROMOTING -> https://github.com/lucabubi/star-history :sparkles:
+![star-history](https://github-readme-stats.vercel.app/api/pin/?username=lucabubi&repo=star-history)](https://github.com/lucabubi/star-history)
