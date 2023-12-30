@@ -12,4 +12,4 @@
 
 ![Blue Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=blue)
 
-![Violet/Default Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-example)
+![Violet/Default Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples)
