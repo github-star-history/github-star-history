@@ -2,7 +2,7 @@
 
 ![star-history](https://github-readme-stats.vercel.app/api/pin/?username=lucabubi&repo=star-history)
 
-![Red Chart](https://api.lucabubi.me/chart?username=mdn&repositorybeginner-html-site&color=red)
+![Red Chart](https://api.lucabubi.me/chart?username=mdn&repository=beginner-html-site&color=red)
 
 ![Orange Chart](https://api.lucabubi.me/chart?username=mdn&repository=beginner-html-site&color=orange)
 
