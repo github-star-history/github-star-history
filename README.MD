@@ -2,14 +2,14 @@
 
 ![star-history](https://github-readme-stats.vercel.app/api/pin/?username=lucabubi&repo=star-history)
 
-![Red Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=red)
+![Red Chart](https://api.lucabubi.me/chart?username=mdn&repositorybeginner-html-site&color=red)
 
-![Orange Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=orange)
+![Orange Chart](https://api.lucabubi.me/chart?username=mdn&repository=beginner-html-site&color=orange)
 
-![Yellow Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=yellow)
+![Yellow Chart](https://api.lucabubi.me/chart?username=mdn&repository=beginner-html-site&color=yellow)
 
-![Green Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=green)
+![Green Chart](https://api.lucabubi.me/chart?username=mdn&repository=beginner-html-site&color=green)
 
-![Blue Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples&color=blue)
+![Blue Chart](https://api.lucabubi.me/chart?username=mdn&repository=beginner-html-site&color=blue)
 
-![Violet/Default Chart](https://api.lucabubi.me/chart?username=mdn&repository=js-examples)
+![Violet/Default Chart](https://api.lucabubi.me/chart?username=mdn&repository=beginner-html-site)
